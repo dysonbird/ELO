@@ -1,0 +1,2 @@
+# ELO
+Elo rating system
